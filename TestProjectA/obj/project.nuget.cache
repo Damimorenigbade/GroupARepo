@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9ah6aAUuzRmOMxdgio9rdHCGjA3Lkc9EGHZ6JeDESsOlknzNraBuoGf5udPdIEb+nOUSQfa4Rm4B1Cpa+VlsA==",
+  "dgSpecHash": "yaWgKjt12Gt7xeJlrqb1syvN70GdI+T6rQ6DxxmoUqXk8qCL/COWuL1hvHhsq3okTGZpCezQLOpFiwHue3YR5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mac\\source\\repos\\TestProjectA\\TestProjectA\\TestProjectA.csproj",
+  "projectFilePath": "C:\\Users\\Mac\\Documents\\GitHub\\GroupARepo\\TestProjectA\\TestProjectA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mac\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Mac\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

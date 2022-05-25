@@ -6817,11 +6817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mac\\source\\repos\\TestProjectA\\TestProjectA\\TestProjectA.csproj",
+      "projectUniqueName": "C:\\Users\\Mac\\Documents\\GitHub\\GroupARepo\\TestProjectA\\TestProjectA.csproj",
       "projectName": "TestProjectA",
-      "projectPath": "C:\\Users\\Mac\\source\\repos\\TestProjectA\\TestProjectA\\TestProjectA.csproj",
+      "projectPath": "C:\\Users\\Mac\\Documents\\GitHub\\GroupARepo\\TestProjectA\\TestProjectA.csproj",
       "packagesPath": "C:\\Users\\Mac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mac\\source\\repos\\TestProjectA\\TestProjectA\\obj\\",
+      "outputPath": "C:\\Users\\Mac\\Documents\\GitHub\\GroupARepo\\TestProjectA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mac\\AppData\\Roaming\\NuGet\\NuGet.Config",
